@@ -1,4 +1,4 @@
-# 12+ Hour MERN Masterclass: Build  a Real-Time Chat Functionality Smart Threads With Advanced Chat Bot Functionality!..
+#  Build  a Real-Time Chat Functionality Smart Threads With Advanced Chat Bot Functionality!..
 
 Feature List:
 
